@@ -1,6 +1,6 @@
 # vuejs-essential
 
-> A Vue.js project
+> A Vue.js project [pages](https://nagill.github.io/vuejs-essential/dist/)
 
 ## Build Setup
 
